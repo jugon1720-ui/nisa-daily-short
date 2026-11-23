@@ -1,0 +1,31 @@
+{
+  "output_dir": "~/Movies/nisa_daily",
+  "bgm_path": "~/Movies/grandsmart_final/bgm_all.m4a",
+  "bgm_volume": 0.08,
+  "voicevox_url": "http://127.0.0.1:50021",
+  "speaker_normal": 3,
+  "speaker_amaama": 1,
+  "speed_scale": 1.15,
+  "publish_time": "07:30",
+  "privacy_status": "public",
+  "main_video_url": "",
+  "watchlist": [
+    {"symbol": "^GSPC",  "name": "S&P500",        "yomi": "エスアンドピー500",   "unit": "pt"},
+    {"symbol": "7203.T", "name": "トヨタ自動車",   "yomi": "トヨタ自動車",       "unit": "円"},
+    {"symbol": "8306.T", "name": "三菱UFJ",       "yomi": "三菱ユーエフジェイ",   "unit": "円"},
+    {"symbol": "9432.T", "name": "NTT",           "yomi": "エヌティーティー",    "unit": "円"},
+    {"symbol": "^N225",  "name": "日経平均",       "yomi": "日経平均",           "unit": "円"},
+    {"symbol": "8058.T", "name": "三菱商事",       "yomi": "三菱商事",           "unit": "円"},
+    {"symbol": "2914.T", "name": "JT",            "yomi": "ジェイティー",        "unit": "円"},
+    {"symbol": "^NDX",   "name": "NASDAQ100",     "yomi": "ナスダック100",       "unit": "pt"},
+    {"symbol": "9434.T", "name": "ソフトバンク",   "yomi": "ソフトバンク",        "unit": "円"},
+    {"symbol": "8316.T", "name": "三井住友FG",     "yomi": "三井住友フィナンシャルグループ", "unit": "円"},
+    {"symbol": "7974.T", "name": "任天堂",         "yomi": "任天堂",             "unit": "円"},
+    {"symbol": "9433.T", "name": "KDDI",          "yomi": "ケーディーディーアイ", "unit": "円"},
+    {"symbol": "6758.T", "name": "ソニーグループ", "yomi": "ソニーグループ",      "unit": "円"},
+    {"symbol": "8001.T", "name": "伊藤忠商事",     "yomi": "伊藤忠商事",         "unit": "円"},
+    {"symbol": "4502.T", "name": "武田薬品",       "yomi": "武田薬品",           "unit": "円"},
+    {"symbol": "8591.T", "name": "オリックス",     "yomi": "オリックス",         "unit": "円"},
+    {"symbol": "8035.T", "name": "東京エレクトロン", "yomi": "東京エレクトロン",   "unit": "円"}
+  ]
+}
