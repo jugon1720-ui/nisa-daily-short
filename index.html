@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>NISA Daily Short Uploader</title>
+<style>body{font-family:-apple-system,"Hiragino Sans",sans-serif;max-width:760px;margin:40px auto;padding:0 16px;line-height:1.7;color:#222}h1{font-size:1.6em}a{color:#1F2A7A}</style></head>
+<body>
+<h1>NISA Daily Short Uploader</h1>
+<p><b>NISA Daily Short Uploader</b> is a personal, non-commercial tool run by a single YouTube creator on their own Mac.
+Every morning it creates a ~30-second vertical video (YouTube Short) that shows the recent closing-price trend of one popular stock or index
+(e.g. S&amp;P 500, Nikkei 225, Toyota) and uploads it to <b>the creator's own YouTube channel only</b>, scheduled to be published at 7:30 JST.</p>
+<h2>How it uses YouTube API Services</h2>
+<ul>
+<li>Scope: <code>https://www.googleapis.com/auth/youtube.upload</code> only.</li>
+<li>API call: <code>videos.insert</code> — about one upload per day (≈1,600 quota units/day).</li>
+<li>Only the channel owner signs in. The tool is not offered to any other users and is not a public service.</li>
+<li>No YouTube data is read, stored, analysed or shared.</li>
+</ul>
+<h2>日本語</h2>
+<p>個人のYouTubeチャンネル運営者が、自分のMac上で動かしている非商用ツールです。毎朝、新NISAで人気の銘柄・指数の株価推移を示す約30秒のショート動画を自動生成し、自分のチャンネルにのみ投稿（7:30予約公開）します。YouTubeのデータを読み取ったり保存・共有したりすることはありません。</p>
+<p><a href="privacy.html">Privacy Policy / プライバシーポリシー</a> ・ <a href="terms.html">Terms of Service / 利用規約</a></p>
+<p>Contact: <a href="https://github.com/jugon1720-ui/nisa-daily-short/issues">GitHub Issues</a></p>
+</body></html>
